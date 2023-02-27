@@ -1,0 +1,15 @@
+C:\Git brance\Reshebnik6_lection4\task20\obj\Debug\net6.0\task20.csproj.AssemblyReference.cache
+C:\Git brance\Reshebnik6_lection4\task20\obj\Debug\net6.0\task20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git brance\Reshebnik6_lection4\task20\obj\Debug\net6.0\task20.AssemblyInfoInputs.cache
+C:\Git brance\Reshebnik6_lection4\task20\obj\Debug\net6.0\task20.AssemblyInfo.cs
+C:\Git brance\Reshebnik6_lection4\task20\obj\Debug\net6.0\task20.csproj.CoreCompileInputs.cache
+C:\Git brance\Reshebnik6_lection4\task20\bin\Debug\net6.0\task20.exe
+C:\Git brance\Reshebnik6_lection4\task20\bin\Debug\net6.0\task20.deps.json
+C:\Git brance\Reshebnik6_lection4\task20\bin\Debug\net6.0\task20.runtimeconfig.json
+C:\Git brance\Reshebnik6_lection4\task20\bin\Debug\net6.0\task20.dll
+C:\Git brance\Reshebnik6_lection4\task20\bin\Debug\net6.0\task20.pdb
+C:\Git brance\Reshebnik6_lection4\task20\obj\Debug\net6.0\task20.dll
+C:\Git brance\Reshebnik6_lection4\task20\obj\Debug\net6.0\refint\task20.dll
+C:\Git brance\Reshebnik6_lection4\task20\obj\Debug\net6.0\task20.pdb
+C:\Git brance\Reshebnik6_lection4\task20\obj\Debug\net6.0\task20.genruntimeconfig.cache
+C:\Git brance\Reshebnik6_lection4\task20\obj\Debug\net6.0\ref\task20.dll
